@@ -5,3 +5,6 @@ lbyec72-ej1-p5-strings-divina1017 created by GitHub Classroom
 ![](3.jpg)
 ![](4.jpg)
 ![](5.jpg)
+![](11.jpg)
+![](21.jpg)
+![](31.jpg)
